@@ -1,4 +1,4 @@
-# Jam Wikiproject-java
+# javafx wiki Application
 Jam Wiki project.
 
 Just a GUI project for viewing wikipedi and some other features like saving wikitext in pdf,word format etc.
